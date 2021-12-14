@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Sınav Çalışması</title>
+<meta name="keywords" content="çalışma,sınav,deneme,html"/>
+</head>
+<body>
+<h2> Sınav Çalışması </h2>
+<p> Bu bir paragraf</p>
+<p> bu da ayrı 1 paragraf br ile bir sonraki satırı aşşaığı yazıcam <br> aşağııııı
+<br> unordered list ve ordered list örnekleri; </p>
+<ul type="circle">
+<li> php dersi  </li>
+<ol>
+<li> html </li> 
+<li> html 5 </li>
+<li> php giriş </li>
+</ol>
+</ul>
+<pre>
+Bu liste kullanımı da bu şekilde olmaktadır. pre kullanımı ise metinde
+istediğiniz kadar boşluk bırakılmasını sağlar     bu boşlukları
+     otomatik olarak   tek      boşluğa indirgemez. </pre>
+<!--YorumSatırııı-->
+<p> Paragraf içinde yazı  tipini değiştirelim şimdi <br> 
+<b> kalın ifadeler için bold anlamına gelen "b" etiketi </b> <br>
+<strong> kalın ifadeler için "strong" etiketi de kullanılabilir. </strong> <br>
+<i> italik ifadeler için "i" </i> <br>
+<u> altı çizili ifadeler için "u"</u> <br>
+üslü ifade<sup>için sup</sup> <br>
+alta yazmak için <sub> sub etiketi </sub> <br> </p>
+</body>
+</html>
+
+
